@@ -1,28 +1,30 @@
 import React, { useState } from 'react'
 import {FaBars, FaTimes} from 'react-icons/fa'
+
+import {Link} from 'react-scroll'
 const NavBar = () => {
 const [navButton,setNavButton] = useState(false)
 
 const links = [
     {
         id : 1,
-        title : "Home"
+        title : "home"
     },
     {
         id : 2,
-        title : "About"
+        title : "about"
     },
     {
         id : 3,
-        title : "Porfolio"
+        title : "portfolio"
     },
     {
         id : 4,
-        title : "Experience"
+        title : "experience"
     },
     {
         id : 5,
-        title : "Contact"
+        title : "contact"
     },
 ];
   return (
@@ -34,12 +36,12 @@ const links = [
         <ul className='hidden md:flex'>
             { links.map(({id,title}) => (
                 <li key={id} className='px-4 cursor-pointer capitalize font-medium text-gray-400 hover:scale-125 duration-300 '>
-                {title}
+                <Link to={title} smooth duration={500}>{title}</Link>
                 </li>
             ))}
         </ul>
 
-        <div onClick={() => setNavButton(!navButton)} className='cursor-pointer pr-4 z-10 text-gray-400 md:hidden'>
+        <div onClick={()=>setNavButton(!navButton)} className='cursor-pointer pr-4 z-10 text-gray-400 md:hidden'>
             {navButton ? <FaTimes size={30}/> : <FaBars size={30}/>}
         </div>
 
