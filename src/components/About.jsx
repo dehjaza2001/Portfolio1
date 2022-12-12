@@ -7,14 +7,22 @@ const About = () => {
             <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
             </div>
-            <p className='text-xl mt-20'>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            <p className='text-xl mt-8'>
+            I completed a considerable amount of programming throughout my three years at the
+            University of Science VNUHCM, including Data Structures, and Computer Systems
+            Programming, where I learned how to write optimal code. I also have a strong
+            understanding of some fundamental computer science curricula, such as Object Oriented Programming, Database Systems, and Software Engineering . Those subjects helped
+            me a lot in finding effective and optimal ways to solve problems.
             </p>
 
             <br/>
 
             <p className='text-xl'>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            During my learning, I discover that my most effective learning style is "learning by doing".
+            Therefore, I always want to apply the knowledge accumulated from classes in doing various
+            practical projects, and you can find some of them in the Porfolio section below. Those projects
+            helped me to have a better comprehension of the things I had acquired. It also helped me
+            improve my teamwork and verbal communication abilities.
             </p>
         </div>
     </div>

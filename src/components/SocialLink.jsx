@@ -39,19 +39,17 @@ const SocialLink = () => {
                     Resume <BsFillPersonLinesFill size ={30}/>
                 </>
             ),
-            href : 'https://www.linkedin.com/in/tri-luong-80a05a234/',
+            href : 'https://drive.google.com/file/d/1EkJnqlgJSGa1QzCYAdaIN0j9ByKPv-U0/view?usp=sharing',
             style : "rounded-br-md",
-            download:true,
         },
     ]
   return (
     <div className='hidden lg:flex flex-col top-[35%] left-0 fixed'>
         <ul>
             {links.map(({id,child,href,style,download})=>(
-                <li key ={id} className={"flex justify-between items-center w-40 h-14 pl-6 pr-4 bg-gray-500 ml-[-100px] hover:ml-[-10px] hover:rounded-md duration-300" + " " + style}>
+                <li key ={id} className={`flex justify-between items-center w-40 h-14 pl-6 pr-4 bg-gray-500 ml-[-100px] hover:ml-[-10px] hover:rounded-md duration-300 ${style}`}>
                 <a href={href}
                 className='flex justify-between items-center w-full text-white'
-                download={download}
                 target="_blank"
                 rel="noreferrer">
                     <>
