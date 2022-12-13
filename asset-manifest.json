@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6904190a.css",
-    "main.js": "/portfolio/static/js/main.5998a65a.js",
-    "static/media/ledis.png": "/portfolio/static/media/ledis.42bde38250c737eea7e3.png",
-    "static/media/petapp.png": "/portfolio/static/media/petapp.a9ea65c68ebdb7d89071.png",
-    "static/media/ocular.png": "/portfolio/static/media/ocular.ba029838e8406812a249.png",
-    "static/media/minisearch.png": "/portfolio/static/media/minisearch.def59aea9b96ed4e047f.png",
-    "static/media/footballreport.png": "/portfolio/static/media/footballreport.a5cbd2e44a5f081513e6.png",
-    "static/media/ava.jpg": "/portfolio/static/media/ava.d730e1ad1e8af2ac9a3b.jpg",
-    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/node.png": "/portfolio/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/nextjs.png": "/portfolio/static/media/nextjs.48ddc8121a0fcb543d64.png",
-    "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/c++.png": "/portfolio/static/media/c++.ccf711d17ee9e16c8728.png",
-    "static/media/python.png": "/portfolio/static/media/python.f94b6a7ece4e5e7cde83.png",
-    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "static/media/mongodb.svg": "/portfolio/static/media/mongodb.fd82554bd307566edfca0c32271a894e.svg",
-    "index.html": "/portfolio/index.html",
-    "main.6904190a.css.map": "/portfolio/static/css/main.6904190a.css.map",
-    "main.5998a65a.js.map": "/portfolio/static/js/main.5998a65a.js.map"
+    "main.css": "/Portfolio1/static/css/main.6904190a.css",
+    "main.js": "/Portfolio1/static/js/main.c9587b71.js",
+    "static/media/ledis.png": "/Portfolio1/static/media/ledis.42bde38250c737eea7e3.png",
+    "static/media/petapp.png": "/Portfolio1/static/media/petapp.a9ea65c68ebdb7d89071.png",
+    "static/media/ocular.png": "/Portfolio1/static/media/ocular.ba029838e8406812a249.png",
+    "static/media/minisearch.png": "/Portfolio1/static/media/minisearch.def59aea9b96ed4e047f.png",
+    "static/media/footballreport.png": "/Portfolio1/static/media/footballreport.a5cbd2e44a5f081513e6.png",
+    "static/media/ava.jpg": "/Portfolio1/static/media/ava.d730e1ad1e8af2ac9a3b.jpg",
+    "static/media/react.png": "/Portfolio1/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/Portfolio1/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/nextjs.png": "/Portfolio1/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/github.png": "/Portfolio1/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Portfolio1/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Portfolio1/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Portfolio1/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/c++.png": "/Portfolio1/static/media/c++.ccf711d17ee9e16c8728.png",
+    "static/media/python.png": "/Portfolio1/static/media/python.f94b6a7ece4e5e7cde83.png",
+    "static/media/javascript.png": "/Portfolio1/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/mongodb.svg": "/Portfolio1/static/media/mongodb.fd82554bd307566edfca0c32271a894e.svg",
+    "index.html": "/Portfolio1/index.html",
+    "main.6904190a.css.map": "/Portfolio1/static/css/main.6904190a.css.map",
+    "main.c9587b71.js.map": "/Portfolio1/static/js/main.c9587b71.js.map"
   },
   "entrypoints": [
     "static/css/main.6904190a.css",
-    "static/js/main.5998a65a.js"
+    "static/js/main.c9587b71.js"
   ]
 }
