@@ -28,7 +28,7 @@ const links = [
     },
 ];
   return (
-    <div className=' flex justify-between bg-black w-full h-16 text-white items-center fixed px-4 '>
+    <div className=' z-50 flex justify-between bg-black w-full h-16 text-white items-center fixed px-4 '>
         <div>
             <h1 className='text-4xl font-signature ml-2'>Kevin Luong</h1>
         </div>
@@ -53,8 +53,6 @@ const links = [
         ))}
         </ul>
         ) }
-        
-        
     </div>
   )
 }
