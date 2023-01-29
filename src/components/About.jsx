@@ -7,7 +7,7 @@ const About = () => {
             <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
             </div>
-            <p className='text-xl mt-8'>
+            <p className='text-xl mt-8  '>
             I completed a considerable amount of programming throughout my three years at the
             University of Science VNUHCM, including Data Structures, and Computer Systems
             Programming, where I learned how to write optimal code. I also have a strong

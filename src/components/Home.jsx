@@ -1,5 +1,5 @@
 import React from 'react'
-import myImage from "../assets/ava.jpg"
+import myImage from "../assets/ava2.jpg"
 import {MdOutlineKeyboardArrowRight} from "react-icons/md"
 import {Link} from 'react-scroll'
 const Home = () => {
@@ -25,7 +25,7 @@ const Home = () => {
                 <img 
                 src = {myImage}
                 alt="my profile"
-                className='rounded-3xl mx-auto h-80 w-80  '
+                className='rounded-3xl mx-auto h-80 w-80 object-scale-down  '
                 />
             </div>
         </div>
