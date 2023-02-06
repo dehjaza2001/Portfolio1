@@ -42,6 +42,13 @@ const Porfolio = () => {
             demo : "https://drive.google.com/file/d/1IOsXVRRzyoIxIc41M619dzdg6-bdCwKD/view?usp=sharing",
             report : true
         },
+        {
+            id : 6,
+            src :"" ,
+            code : "https://github.com/NguyenTrongTin1107/dMart_fe",
+            demo: "https://dmart-taupe.vercel.app/" ,
+            report: false,
+        }
     ]
   return (
     <div name="portfolio" className='bg-gradient-to-b from-black to-gray-800 w-full md:h-full text-white'>
