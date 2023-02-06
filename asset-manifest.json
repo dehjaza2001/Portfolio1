@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Portfolio1/static/css/main.6904190a.css",
-    "main.js": "/Portfolio1/static/js/main.c9587b71.js",
+    "main.css": "/Portfolio1/static/css/main.0731bc7e.css",
+    "main.js": "/Portfolio1/static/js/main.026bdde8.js",
+    "static/media/ava2.jpg": "/Portfolio1/static/media/ava2.c58f375526b21bb69d95.jpg",
     "static/media/ledis.png": "/Portfolio1/static/media/ledis.42bde38250c737eea7e3.png",
     "static/media/petapp.png": "/Portfolio1/static/media/petapp.a9ea65c68ebdb7d89071.png",
     "static/media/ocular.png": "/Portfolio1/static/media/ocular.ba029838e8406812a249.png",
     "static/media/minisearch.png": "/Portfolio1/static/media/minisearch.def59aea9b96ed4e047f.png",
     "static/media/footballreport.png": "/Portfolio1/static/media/footballreport.a5cbd2e44a5f081513e6.png",
-    "static/media/ava.jpg": "/Portfolio1/static/media/ava.d730e1ad1e8af2ac9a3b.jpg",
     "static/media/react.png": "/Portfolio1/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/Portfolio1/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/nextjs.png": "/Portfolio1/static/media/nextjs.48ddc8121a0fcb543d64.png",
@@ -20,11 +20,11 @@
     "static/media/javascript.png": "/Portfolio1/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "static/media/mongodb.svg": "/Portfolio1/static/media/mongodb.fd82554bd307566edfca0c32271a894e.svg",
     "index.html": "/Portfolio1/index.html",
-    "main.6904190a.css.map": "/Portfolio1/static/css/main.6904190a.css.map",
-    "main.c9587b71.js.map": "/Portfolio1/static/js/main.c9587b71.js.map"
+    "main.0731bc7e.css.map": "/Portfolio1/static/css/main.0731bc7e.css.map",
+    "main.026bdde8.js.map": "/Portfolio1/static/js/main.026bdde8.js.map"
   },
   "entrypoints": [
-    "static/css/main.6904190a.css",
-    "static/js/main.c9587b71.js"
+    "static/css/main.0731bc7e.css",
+    "static/js/main.026bdde8.js"
   ]
 }
