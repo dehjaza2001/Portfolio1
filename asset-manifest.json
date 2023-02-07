@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio1/static/css/main.0731bc7e.css",
-    "main.js": "/Portfolio1/static/js/main.026bdde8.js",
+    "main.js": "/Portfolio1/static/js/main.777a6d0c.js",
     "static/media/ava2.jpg": "/Portfolio1/static/media/ava2.c58f375526b21bb69d95.jpg",
     "static/media/ledis.png": "/Portfolio1/static/media/ledis.42bde38250c737eea7e3.png",
     "static/media/petapp.png": "/Portfolio1/static/media/petapp.a9ea65c68ebdb7d89071.png",
     "static/media/ocular.png": "/Portfolio1/static/media/ocular.ba029838e8406812a249.png",
     "static/media/minisearch.png": "/Portfolio1/static/media/minisearch.def59aea9b96ed4e047f.png",
     "static/media/footballreport.png": "/Portfolio1/static/media/footballreport.a5cbd2e44a5f081513e6.png",
+    "static/media/dMart.png": "/Portfolio1/static/media/dMart.84c4eb1c163eae5d4154.png",
     "static/media/react.png": "/Portfolio1/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/Portfolio1/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/nextjs.png": "/Portfolio1/static/media/nextjs.48ddc8121a0fcb543d64.png",
@@ -21,10 +22,10 @@
     "static/media/mongodb.svg": "/Portfolio1/static/media/mongodb.fd82554bd307566edfca0c32271a894e.svg",
     "index.html": "/Portfolio1/index.html",
     "main.0731bc7e.css.map": "/Portfolio1/static/css/main.0731bc7e.css.map",
-    "main.026bdde8.js.map": "/Portfolio1/static/js/main.026bdde8.js.map"
+    "main.777a6d0c.js.map": "/Portfolio1/static/js/main.777a6d0c.js.map"
   },
   "entrypoints": [
     "static/css/main.0731bc7e.css",
-    "static/js/main.026bdde8.js"
+    "static/js/main.777a6d0c.js"
   ]
 }
