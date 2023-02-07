@@ -4,9 +4,17 @@ import ledis from "../assets/portfolio/ledis.png";
 import minisearch from "../assets/portfolio/minisearch.png";
 import ocular from "../assets/portfolio/ocular.png";
 import footballreport from "../assets/portfolio/footballreport.png";
+import dMart from  "../assets/portfolio/dMart.png";
 
 const Porfolio = () => {
     const projects =[
+        {
+            id : 6,
+            src : dMart ,
+            code : "https://github.com/NguyenTrongTin1107/dMart_fe",
+            demo: "https://dmart-taupe.vercel.app/" ,
+            report: false,
+        },
         {
             id : 1,
             src : petapp,
@@ -42,13 +50,6 @@ const Porfolio = () => {
             demo : "https://drive.google.com/file/d/1IOsXVRRzyoIxIc41M619dzdg6-bdCwKD/view?usp=sharing",
             report : true
         },
-        {
-            id : 6,
-            src :"" ,
-            code : "https://github.com/NguyenTrongTin1107/dMart_fe",
-            demo: "https://dmart-taupe.vercel.app/" ,
-            report: false,
-        }
     ]
   return (
     <div name="portfolio" className='bg-gradient-to-b from-black to-gray-800 w-full md:h-full text-white'>
